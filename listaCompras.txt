@@ -3,3 +3,4 @@
  zapatos
  comida
  bebida
+televisión
