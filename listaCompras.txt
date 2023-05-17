@@ -1,0 +1,5 @@
+
+ telefono
+ zapatos
+ comida
+ bebida
