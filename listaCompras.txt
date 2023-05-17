@@ -1,1 +1,6 @@
+
+ telefono
+ zapatos
+ comida
+ bebida
 televisión
